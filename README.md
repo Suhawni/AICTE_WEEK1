@@ -12,7 +12,11 @@ The model predicts whether the given waste is Organic (biodegradable) or Inorgan
 🚀 Features
 
 ✅ Image Upload & Camera Capture — Classify waste from uploaded images or live camera input.
+
 ✅ Real-time Prediction — Displays predicted class (Organic/Inorganic) with confidence score.
+
 ✅ Automatic Preprocessing — Handles JPG, JPEG, and PNG (even with transparency).
+
 ✅ Interactive Visualization — Draws bounding boxes and labels using OpenCV.
+
 ✅ Custom UI Design — Clean gradient interface using Streamlit and CSS customization.
